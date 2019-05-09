@@ -1,6 +1,6 @@
 local VersionList = {
-    ["Common/PrintTest2.lua"] = 0.1,
-    ["PrintTest.lua"] = 0.1,
+    ["Common/PrintTest.lua"] = 0.2,
+    ["PrintTest.lua"] = 0.2,
 }; 
 
  return VersionList;
